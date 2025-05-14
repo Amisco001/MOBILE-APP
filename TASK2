@@ -1,0 +1,7 @@
+fun main() {
+    print("Enter your name: ")
+    val name = readLine()
+    print("Enter your age: ")
+    val age = readLine()
+    println("Hello Almustapha, you are $age years old!")
+}
